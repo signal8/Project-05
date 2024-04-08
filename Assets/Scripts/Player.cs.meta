@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f1f4fd12d57bee5fbb1420baae16bcd4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreDisplay: {fileID: 2550505253279560450, guid: 4dc838fc0691820908efc8f6f1cf9fb2, type: 3}
+  - statDisplay: {fileID: 7629038308699774910, guid: 53ee9b54f60a42b8e850e59d366dd178, type: 3}
+  - currentSword: {fileID: 8609430027550245142, guid: 9c10648796f8e7f2bb20c43f956b5f5b, type: 3}
+  - currentArmor: {fileID: 4049063320628812584, guid: ee3b7b0131b04300b8f7dcab7c158db5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
